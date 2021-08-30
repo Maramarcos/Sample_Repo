@@ -1,2 +1,2 @@
-# Sample_Repo
-This is a sample repository
+# Sample_RepoT
+This is for an assignment (:
